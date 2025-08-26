@@ -26,9 +26,9 @@ const About = () => {
           <div className="z-10">
             <p className="headtext">Hi, I'm Ansh Kumar Nimboria</p>
             <p className="subtext">
-              I'm a final-year B.Tech Computer Science student passionate 
-              about building innovative tech solutions, with a strong interest in 
-              machine learning, deep learning, and full-stack development.
+              I am a Computer Science graduate with a strong passion for building innovative and impactful 
+              technology solutions. My expertise spans machine learning, deep learning, and full-stack development,
+              where I enjoy transforming ideas into scalable real-world applications.
             </p>
           </div>
           <div className="absolute inset-x-0 pointer-events-none -bottom-4 h-1/2 sm:h-1/3 bg-gradient-to-t from-indigo" />

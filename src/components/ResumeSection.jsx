@@ -24,7 +24,7 @@ const ResumeSection = () => {
       <div className="flex flex-col sm:flex-row gap-4">
         {/* View Resume */}
         <a
-          href="/Ansh_Resume.pdf"
+          href="/Ansh_Resume_v2.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-indigo-500 hover:bg-indigo-600 text-white px-6 py-2 rounded-md text-sm font-medium transition"
@@ -34,8 +34,8 @@ const ResumeSection = () => {
 
         {/* Download Resume */}
         <a
-          href="/Ansh_Resume.pdf"
-          download
+          href="/Ansh_Resume_v2.pdf"
+          download = "Ansh_Resume_v2.pdf"
           className="bg-green-500 hover:bg-green-600 text-white px-6 py-2 rounded-md text-sm font-medium transition"
         >
           📥 Download Resume
